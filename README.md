@@ -52,5 +52,3 @@ Die beiden Triebwerke produzieren zusammen ca. **140.000 kW** Leistung. Die Heiz
 - Luftwechselrate für Flugzeugkabinen
 
 ---
-
-*Geschrieben für den Physik-Unterricht.*
