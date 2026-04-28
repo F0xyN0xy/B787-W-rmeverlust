@@ -73,4 +73,4 @@ Die beiden Triebwerke produzieren zusammen ca. **140.000 kW** Leistung. Die Heiz
 
 ## Rechnung
 
--Ich mit den Python Programm
+-Ich mit dem Python Programm
