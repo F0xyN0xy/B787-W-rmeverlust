@@ -56,6 +56,8 @@ Die beiden Triebwerke produzieren zusammen ca. **140.000 kW** Leistung. Die Heiz
 
 # Quellen
 
+## Werte
+
 -[Wikipedia](https://en.wikipedia.org/wiki/Boeing_787_Dreamliner)
 
 -[Nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7152029/?sharetype=link)
@@ -67,3 +69,8 @@ Die beiden Triebwerke produzieren zusammen ca. **140.000 kW** Leistung. Die Heiz
 -[AXON Aviation](http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-787-9?sharetype=link)
 
 -[Kimi](www.kimi.com)
+
+
+## Rechnung
+
+-Ich mit den Python Programm
