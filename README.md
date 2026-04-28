@@ -61,3 +61,5 @@ Die beiden Triebwerke produzieren zusammen ca. **140.000 kW** Leistung. Die Heiz
 -[Nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7152029/?sharetype=link)
 
 -[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0360132317304274?sharetype=link)
+
+-[Boeing](https://www.boeing.com/commercial/787/by-design?sharetype=link)
