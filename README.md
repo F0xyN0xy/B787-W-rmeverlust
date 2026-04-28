@@ -52,3 +52,8 @@ Die beiden Triebwerke produzieren zusammen ca. **140.000 kW** Leistung. Die Heiz
 - Luftwechselrate für Flugzeugkabinen
 
 ---
+
+
+# Quellen
+
+- [Wikipedia](www.en.wikipedia.org/b787_9_dreamliner)
